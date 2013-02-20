@@ -1,1 +1,5 @@
-texto
+<?php
+
+echo "hola";
+
+?>
